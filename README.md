@@ -11,4 +11,4 @@ is that:
 here adds a few more embelishments such as a modified template and support for
 etags for browser caching.
 
-To see an example of this app running, go to http://protoman.heroku.com
+You can see a sample of this app [here](http://protoman.heroku.com).
