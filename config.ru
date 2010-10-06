@@ -1,3 +1,6 @@
+require 'rubygems'
+require 'rack'
+
 Rack::Directory::DIR_PAGE =
 <<-PAGE
 <!doctype html>  
