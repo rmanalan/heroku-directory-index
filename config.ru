@@ -33,7 +33,7 @@ Rack::Directory::DIR_PAGE =
   %s
   </table>
     <footer>
-      Shared by <a href="http://twitter.com/rmanalan" title="Rich Manalang">@rmanalan</a> and served up by <a href="http://rack.rubyforge.org/">Rack</a> on the awesome <a href="http://heroku.com">Heroku</a> platform. <a href="http://github.com/manalang/heroku-directory-index">Form me!</a>
+      Shared by <a href="http://twitter.com/rmanalan" title="Rich Manalang">@rmanalan</a> and served up by <a href="http://rack.rubyforge.org/">Rack</a> on the awesome <a href="http://heroku.com">Heroku</a> platform. <a href="http://github.com/manalang/heroku-directory-index">Fork me!</a>
     </footer>
   </div>
 
