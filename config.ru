@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'rack'
+require 'rack/contrib'
 
 Rack::Directory::DIR_PAGE =
 <<-PAGE

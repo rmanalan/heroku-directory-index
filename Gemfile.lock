@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rack (1.2.1)
+    rack-contrib (1.0.1)
+      rack (>= 0.9.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack-contrib
